@@ -53,7 +53,45 @@ Contributing
 
 *The contribution guidelines will be added here via a **Github Issue** and a resulting **Pull Request** that will in themselves be part of the guide on contributing to this repo.*
 
-*Some notes about using **markdown** will also be added here.*
+There are two routes for contributing to this repository: **Github Issues** & **Pull Requests**.
+
+Both these methods allow  for rich collaboration and they serve to help document and facilitate the process of getting changes into the repository in a fully trackable and logical way.
+
+#### Opening an Issue
+
+Absolutely anyone can open a new **Issue** and we encourage folks to be liberal with this feature. Issues can be used to:
+
+* Suggest amendments to existing sections
+* Suggest better formatting/layout of the existing text
+* Add new content to the repo
+
+To open a new Issue, simply navigate to the "Issues" tab at the top of the page.
+
+![ image highlighting Issue tab floating ](images/)
+
+Here you can now see the Issues that are currently open and you can also search for past cloed Issues.
+
+Click "New issue" button to the right of the page
+
+![ image of Issues page with "new issue" button highlighted ](images/)
+
+You will now be presented with the editing page for filling in a new Issue. Proceed to fill in an appropriate title for the change you would like to propose and write up a small description explaining the changes.
+
+The description section can be formatted using "markdown" to create bold/italic text, various headers, links and images.
+
+Once you are happy with what you've written, click the "Submit new issue" button near the bottom of the page.
+
+![ image of completed sample Issue and "Submit.." button highlighted ](images/)
+
+And that's it! From here, other contributors will then engage with you to flesh out the Issue you've created, and a Pull Request would eventually be made to get those changes into the main repository.
+
+*If you feel confident enough to make your own changes, you may also simply go on to creating the Pull Request yourself with the proposed changes.*
+
+#### Opening a Pull Request
+
+...
+
+>*Some notes about using **markdown** will also be added here.*
 
 
 Usage
